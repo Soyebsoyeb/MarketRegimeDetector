@@ -40,17 +40,8 @@ https://drive.google.com/drive/folders/1gFLwPLTE0nUN-MHoOn5u_1yrlbpI3Fst  (DATA 
 
  python3 market_regime_detector.py
 
-#(6) File Structure
 
-MarketRegimeDetector/
-├── data/                   # Sample data files
-├── market_regime_detector.py  # Main implementation
-├── requirements.txt        # Dependencies
-├── README.md               # This file
-└── market_regimes_results.csv  # Output file
-
-
-#(7) Output Analysis
+#(6) Output Analysis
 
 <img width="1680" alt="Screenshot 2025-04-19 at 12 43 36 AM" src="https://github.com/user-attachments/assets/002e33d7-2f81-4bbd-8546-6ad094d67fbe" />
 
